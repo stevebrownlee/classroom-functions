@@ -27,7 +27,7 @@ The function should perform the task of adding a new property named `shape`, and
 
 ### Bisque Firing
 
-Define a function named `bisqueFire`. You need to give it the object that `makeBowl` produced, so it needs a single parameter to capture that value and use it. 
+Define a function named `bisqueFire`. You need to give it the object that `makePottery` produced, so it needs a single parameter to capture that value and use it. 
 
 The function should perform the task of adding a new property named `readyForGlazing`, and its value should be `true`. The function should then return the object after the new property was added.
 
